@@ -1,0 +1,16 @@
+current directory: /home/tuananh/RailsProject/sendmail/vendor/cache/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+/home/tuananh/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/tuananh/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220927-121086-7w2h2x.rb extconf.rb
+creating Makefile
+
+current directory: /home/tuananh/RailsProject/sendmail/vendor/cache/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/tuananh/RailsProject/sendmail/vendor/cache/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/tuananh/RailsProject/sendmail/vendor/cache/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220927-121086-rvctsb/debug
